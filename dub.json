@@ -1,0 +1,9 @@
+{
+    "name" : "divide",
+    "description" : "A port of libdivide to D (with appropriate D APIs, like ctor and operator overloading)",
+    "targetType": "library",
+    "authors": ["ridiculous_fish", "Tomer Filiba"],
+    "copyright": "2010 - 2016 ridiculous_fish",
+    "license": "zlib & Boost (Dual licensed)",
+    "dependencies" : {}
+}
